@@ -1,11 +1,11 @@
-# 두피어나 <img alt="두피어나" src="https://github.com/user-attachments/assets/118d9561-454d-439e-8711-f37f89f3fd29" width="100" alt="BULK" src="https://github.com/user-attachments/assets/f3572efa-c327-48b6-914c-87b8fe90d837" align="left" />
+# 두피어나 <img alt="두피어나" src="https://github.com/user-attachments/assets/39d7deb7-d0cb-4523-a592-a383fc921dc3" width="100" alt="BULK" src="https://github.com/user-attachments/assets/f3572efa-c327-48b6-914c-87b8fe90d837" align="left" />
 한번의 터치로 두피를 진단하다.
 <br/><br/>
 
 ## **🪮 프로젝트 개요 및 소개**
 **두피어나**는 빗으로 두피 상태를 쉽고 빠르게 진단하고, 맞춤형 두피 케어 솔루션을 제공하는 AI 기반의 두피 분석 서비스입니다. **매일 사용하는 빗**을 활용하여 별도의 복잡한 과정 없이 매일 두피 상태를 확인할 수 있도록 도와주는 서비스입니다.
 
-<img width="1920" alt="개발배경" src="https://github.com/user-attachments/assets/35877cca-0e4a-46c1-8f1c-4bebcd8bd646"/> 
+<img width="1920" alt="두피어나" src="https://github.com/user-attachments/assets/febf238e-1cb0-4a50-9090-1f7e6a62a412"/> 
 </br>
 
 ---
