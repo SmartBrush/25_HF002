@@ -155,7 +155,7 @@ SmartBrush에 내장된 카메라와 센서로 두피 이미지를 촬영하고,
 ---
 
 ## 🎥 작품 소개 영상
-[![시연 영상 보기](https://img.youtube.com/vi/UiVeHTItPyk/0.jpg)](https://youtu.be/UiVeHTItPyk)
+[![시연 영상 보기](https://img.youtube.com/vi/UiVeHTItPyk/0.jpg)](https://youtu.be/cVYWDxybcYY?si=ZxseDR4PNyukEOeK)
 
 ---
 ## 🖥️ 핵심 소스코드
